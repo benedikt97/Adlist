@@ -1,36 +1,8 @@
 
 
-# This hosts file is a merged collection of hosts from reputable sources,
-# with a dash of crowd sourcing via GitHub
-#
-# Date: 14 December 2021 04:09:26 (UTC)
-# Number of unique domains: 98,213
-#
-#
-# ===============================================================
-
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
-
-# Custom host records are listed here.
 
 
-# End of custom host records.
-
-
-#=====================================
+#Amazon
 
 0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
@@ -40,3 +12,43 @@ ff02::3 ip6-allhosts
 0.0.0.0 amazonaax.com
 0.0.0.0 amazonclix.com
 0.0.0.0 assoc-amazon.com
+
+#Google
+google-analytics.com
+ssl.google-analytics.com
+
+#Social
+https://pixel.facebook.com
+https://analytics.facebook.com
+https://ads.facebook.com
+https://an.facebook.com
+
+https://ads-twitter.com
+https://static.ads-twitter.com
+https://ads-api.twitter.com
+https://advertising.twitter.com
+
+https://ads.linkedin.com
+https://analytics.pointdrive.linkedin.com
+
+https://log.pinterest.com
+https://widgets.pinterest.com
+
+https://ads.youtube.com
+https://youtube.cleverads.vn
+
+#Handy Vendors
+https://api.ad.xiaomi.com
+https://app.chat.xiaomi.net
+https://data.mistat.intl.xiaomi.com
+https://data.mistat.india.xiaomi.com
+https://data.mistat.rus.xiaomi.com
+https://sdkconfig.ad.xiaomi.com
+https://sdkconfig.ad.intl.xiaomi.com
+https://globalapi.ad.xiaomi.com
+https://www.cdn.ad.xiaomi.com
+https://tracking.miui.com
+https://sa.api.intl.miui.com
+https://tracking.miui.com
+https://tracking.india.miui.com
+https://tracking.rus.miui.com
