@@ -1,7 +1,3 @@
-
-
-
-
 #Amazon
 
 0.0.0.0 adtago.s3.amazonaws.com
@@ -18,37 +14,37 @@ google-analytics.com
 ssl.google-analytics.com
 
 #Social
-https://pixel.facebook.com
-https://analytics.facebook.com
-https://ads.facebook.com
-https://an.facebook.com
+pixel.facebook.com
+analytics.facebook.com
+ads.facebook.com
+an.facebook.com
 
-https://ads-twitter.com
-https://static.ads-twitter.com
-https://ads-api.twitter.com
-https://advertising.twitter.com
+ads-twitter.com
+static.ads-twitter.com
+ads-api.twitter.com
+advertising.twitter.com
 
-https://ads.linkedin.com
-https://analytics.pointdrive.linkedin.com
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
 
-https://log.pinterest.com
-https://widgets.pinterest.com
+log.pinterest.com
+widgets.pinterest.com
 
-https://ads.youtube.com
-https://youtube.cleverads.vn
+ads.youtube.com
+youtube.cleverads.vn
 
 #Handy Vendors
-https://api.ad.xiaomi.com
-https://app.chat.xiaomi.net
-https://data.mistat.intl.xiaomi.com
-https://data.mistat.india.xiaomi.com
-https://data.mistat.rus.xiaomi.com
-https://sdkconfig.ad.xiaomi.com
-https://sdkconfig.ad.intl.xiaomi.com
-https://globalapi.ad.xiaomi.com
-https://www.cdn.ad.xiaomi.com
-https://tracking.miui.com
-https://sa.api.intl.miui.com
-https://tracking.miui.com
-https://tracking.india.miui.com
-https://tracking.rus.miui.com
+api.ad.xiaomi.com
+app.chat.xiaomi.net
+data.mistat.intl.xiaomi.com
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+sdkconfig.ad.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+globalapi.ad.xiaomi.com
+www.cdn.ad.xiaomi.com
+tracking.miui.com
+sa.api.intl.miui.com
+tracking.miui.com
+tracking.india.miui.com
+tracking.rus.miui.com
